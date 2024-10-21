@@ -55,7 +55,7 @@ education:
   - area: Bachelor
     institution: Taizhou University
     date_start: 2020-09-01
-    date_end: 2024-06-31
+    date_end: 2024-06-24
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -64,7 +64,7 @@ education:
   - area: Master
     institution: Lingnan University
     date_start: 2024-09-01
-    date_end: 2027-12-31
+    date_end: 2027-12-25
     summary: |
       GPA: 3.8/4.0
 
